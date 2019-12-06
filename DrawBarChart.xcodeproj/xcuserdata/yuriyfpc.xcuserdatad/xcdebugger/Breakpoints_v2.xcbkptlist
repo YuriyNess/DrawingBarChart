@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DrawBarChart/BarChart/BarChartLayer.swift"
+            timestampString = "597319250.124294"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "enteties"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DrawBarChart/BarChart/BarChartLayer.swift"
+            timestampString = "597319250.1249501"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "BarChartLayer"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrawBarChart.BarChartLayer.(currentValues in _78D58909C8DA4E8BBB258FDDE43CAFD7).getter : Swift.Array&lt;CoreGraphics.CGFloat&gt;"
+                  moduleName = "DrawBarChart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuriyfpc/Desktop/DrawingCahrt/DrawBarChart/BarChart/BarChartLayer.swift"
+                  timestampString = "597271344.751773"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrawBarChart.BarChartLayer.(currentValues in _78D58909C8DA4E8BBB258FDDE43CAFD7).setter : Swift.Array&lt;CoreGraphics.CGFloat&gt;"
+                  moduleName = "DrawBarChart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuriyfpc/Desktop/DrawingCahrt/DrawBarChart/BarChart/BarChartLayer.swift"
+                  timestampString = "597271344.759989"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrawBarChart.BarChartLayer.(currentValues in _78D58909C8DA4E8BBB258FDDE43CAFD7).modify : Swift.Array&lt;CoreGraphics.CGFloat&gt;"
+                  moduleName = "DrawBarChart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuriyfpc/Desktop/DrawingCahrt/DrawBarChart/BarChart/BarChartLayer.swift"
+                  timestampString = "597271344.764259"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrawBarChart.BarChartLayer.(currentValues in _78D58909C8DA4E8BBB258FDDE43CAFD7).modify : Swift.Array&lt;CoreGraphics.CGFloat&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "DrawBarChart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuriyfpc/Desktop/DrawingCahrt/DrawBarChart/BarChart/BarChartLayer.swift"
+                  timestampString = "597271344.788473"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrawBarChart.BarChartLayer.init() -&gt; DrawBarChart.BarChartLayer"
+                  moduleName = "DrawBarChart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuriyfpc/Desktop/DrawingCahrt/DrawBarChart/BarChart/BarChartLayer.swift"
+                  timestampString = "597271344.8030649"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "166">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrawBarChart.BarChartLayer.init(layer: Any) -&gt; DrawBarChart.BarChartLayer"
+                  moduleName = "DrawBarChart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuriyfpc/Desktop/DrawingCahrt/DrawBarChart/BarChart/BarChartLayer.swift"
+                  timestampString = "597271344.806465"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrawBarChart.BarChartLayer.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DrawBarChart.BarChartLayer&gt;"
+                  moduleName = "DrawBarChart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuriyfpc/Desktop/DrawingCahrt/DrawBarChart/BarChart/BarChartLayer.swift"
+                  timestampString = "597271344.80988"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "234">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DrawBarChart/BarChart/BarChartLayer.swift"
+            timestampString = "597319250.125439"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "BarChartLayer"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrawBarChart.BarChartLayer.(newValues in _78D58909C8DA4E8BBB258FDDE43CAFD7).getter : Swift.Array&lt;CoreGraphics.CGFloat&gt;"
+                  moduleName = "DrawBarChart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuriyfpc/Desktop/DrawingCahrt/DrawBarChart/BarChart/BarChartLayer.swift"
+                  timestampString = "597271344.8281339"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrawBarChart.BarChartLayer.(newValues in _78D58909C8DA4E8BBB258FDDE43CAFD7).setter : Swift.Array&lt;CoreGraphics.CGFloat&gt;"
+                  moduleName = "DrawBarChart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuriyfpc/Desktop/DrawingCahrt/DrawBarChart/BarChart/BarChartLayer.swift"
+                  timestampString = "597271344.831839"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrawBarChart.BarChartLayer.(newValues in _78D58909C8DA4E8BBB258FDDE43CAFD7).modify : Swift.Array&lt;CoreGraphics.CGFloat&gt;"
+                  moduleName = "DrawBarChart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuriyfpc/Desktop/DrawingCahrt/DrawBarChart/BarChart/BarChartLayer.swift"
+                  timestampString = "597271344.837407"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrawBarChart.BarChartLayer.(newValues in _78D58909C8DA4E8BBB258FDDE43CAFD7).modify : Swift.Array&lt;CoreGraphics.CGFloat&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "DrawBarChart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuriyfpc/Desktop/DrawingCahrt/DrawBarChart/BarChart/BarChartLayer.swift"
+                  timestampString = "597271344.841036"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrawBarChart.BarChartLayer.init() -&gt; DrawBarChart.BarChartLayer"
+                  moduleName = "DrawBarChart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuriyfpc/Desktop/DrawingCahrt/DrawBarChart/BarChart/BarChartLayer.swift"
+                  timestampString = "597271344.8472019"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrawBarChart.BarChartLayer.init(layer: Any) -&gt; DrawBarChart.BarChartLayer"
+                  moduleName = "DrawBarChart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuriyfpc/Desktop/DrawingCahrt/DrawBarChart/BarChart/BarChartLayer.swift"
+                  timestampString = "597271344.849512"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "314">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrawBarChart.BarChartLayer.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DrawBarChart.BarChartLayer&gt;"
+                  moduleName = "DrawBarChart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuriyfpc/Desktop/DrawingCahrt/DrawBarChart/BarChart/BarChartLayer.swift"
+                  timestampString = "597271344.8527"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "338">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DrawBarChart/BarChart/BarChartLayer.swift"
+            timestampString = "597319250.125885"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "draw(in:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DrawBarChart/BarChart/BarChartLayer.swift"
+            timestampString = "597319250.126344"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "animateBarsHeightChange()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DrawBarChart/BarChart/BarChartLayer.swift"
+            timestampString = "597319250.126794"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "animationDuration"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DrawBarChart/BarChart/BarChartLayer.swift"
+            timestampString = "597319250.127351"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "space"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DrawBarChart/ViewController.swift"
+            timestampString = "597319250.1278141"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "space()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DrawBarChart/BarChart/BarChartLayer.swift"
+            timestampString = "597319250.127895"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "animateNumberOfBarsChange()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DrawBarChart/BarChart/BarChartLayer.swift"
+            timestampString = "597319250.128266"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "isAnimationGrowingDown()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DrawBarChart/BarChart/DrawBarChart.swift"
+            timestampString = "597319250.12858"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "handleTap()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
