@@ -109,18 +109,17 @@ final class BarChartLayer: CALayer {
         let con = ctx
         let rect = self.bounds
         
-        con.addRect(rect)
-        con.setFillColor(UIColor.gray.cgColor)
-        con.fillPath()
-        
         var pointX: CGFloat = 0
+        var pointY: CGFloat = 0
         let bw = barWidth(rect: rect)
         
         for i in 0..<Int(numberOfBars) {
-            pointX = insets.left + CGFloat(i) * (bw + space)
             var newHeight: CGFloat!
-            newHeight = self.currentValues[i]
-            con.addRect(CGRect(x: pointX, y: 0, width: bw, height: makeProcentFor(value: newHeight, rect: rect)))
+            newHeight = makeProcentFor(value: currentValues[i], rect: rect)
+            pointX = insets.left + CGFloat(i) * (bw + space)
+            pointY = rect.height - newHeight
+           
+            con.addRect(CGRect(x: pointX, y: pointY, width: bw, height: newHeight))
             debugPrint("I \(i)")
             
             if oldEnteties.count > i {

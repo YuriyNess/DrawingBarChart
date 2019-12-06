@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         let v = DrawBarChart()
+        v.backgroundColor = .lightGray
         v.delegate = self
         view.addSubview(v)
         v.translatesAutoresizingMaskIntoConstraints = false

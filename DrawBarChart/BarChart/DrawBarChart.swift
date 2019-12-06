@@ -35,9 +35,7 @@ class DrawBarChart: UIView {
     }
     
     private func setup() {
-        layer.addSublayer(chartLayer)
-        
-        chartLayer.transform =  CATransform3DConcat(layer.transform, CATransform3DMakeRotation(.pi,1.0,0.0,0.0));
+        layer.addSublayer(chartLayer)        
         addGestureRecognizer(UITapGestureRecognizer(target: self, action: #selector(handleTap)))
     }
     
